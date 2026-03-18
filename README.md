@@ -10,7 +10,7 @@
 +  Kursumuzun toplam ücreti __KDV dahil 36.000 TL__'dir (Peşin ödemede __31.000 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 31.000 TL__'dir (Peşin ödemede __27.000 TL__ ’dir). Kurs ücreti peşin ya da __3 taksit__ olarak ödenebilir.
 
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Csharp-ile-Nesne-Yonelimli-Programlama-Kursu-10-Mart-2025-/blob/main/kurs_tanitimi.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/Online-Csharp-ile-Nesne-Yonelimli-Programlama-Kursu-10-Mart-2025-/blob/main/kurs_icerigi.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Csharp-ile-Nesne-Yonelimli-Programlama-Kursu-10-Mart-2025-/blob/main/sss.md)
-+ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us06web.zoom.us/meeting/register/tZ0kdeyqrDspHNCQ9l7Rt-lms0dnPItKHH-z#/registration)
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Csharp-ile-Nesne-Yonelimli-Programlama-Kursu-11-Mayis-2026/blob/main/kurs_tanitimi.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/Online-Csharp-ile-Nesne-Yonelimli-Programlama-Kursu-11-Mayis-2026/blob/main/kurs_icerigi.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Csharp-ile-Nesne-Yonelimli-Programlama-Kursu-11-Mayis-2026/blob/main/sss.md)
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us06web.zoom.us/meeting/register/LFehHDINS9uncT7jU2PCsg#/registration)
