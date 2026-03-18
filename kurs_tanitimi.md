@@ -77,6 +77,29 @@ Eğitim, danışmanlık ve/veya proje geliştirdiği kurumlar arasında aşağı
 [IMS Health], 
 [Boehringer Ingelheim]           
 
+## Format
++ __C# ile Nesne Yönelimli Programlama kursu*__ online olarak gerçek zamanlı verilmektedir. _Udemy, Pluralsight_ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için __[Zoom](https://zoom.us/)__ yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
+
++ Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
+
++ Eğitim programı ile ilgili tüm materyaller program süresince öğrencilerle paylaşılmaktadır.
+
++ Öğrenciler hafta içi önceden belirlenmiş belirli saatlerde eğitmene danışabilir ve rehberlik hizmeti alabilirler.
+
++ Eğitim dili Türkçe’dir. Programlama ve _C#_ Dili ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
+
++ Öğrenciler kaçırdıkları dersleri ders tarihini izleyen 3 gün içinde kendilerine verilecek şifre ile _Vimeo_ üzerinden izleyebilirler.
+
+## Eğitim Materyalleri
++ __C# ile Nesne Yönelimli Programlama__ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github ve dropbox_ üzerinden paylaşılmaktadır.
+
+## Eğitim Ücreti
++ Kursumuzun toplam ücreti __KDV dahil 36.000 TL__'dir (Peşin ödemede __31.000 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 31.000 TL__'dir (Peşin ödemede __27.000 TL__ ’dir). Kurs ücreti peşin ya da __3 taksit__ olarak ödenebilir
+
+## Sık Sorulan Sorular
++ __C# ile Nesne Yönelimli Programalama Kursu__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online-Csharp-ile-Nesne-Yonelimli-Programlama-Kursu-11-Mayis-2026/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan __[_Aykut TAŞDELEN_ ile iletişime geçebilir](https://www.linkedin.com/in/aykuttasdelen/)__ ya da bir __[e-posta mesajı gönderebilirsiniz](mailto:aykuttasdelen@csystem.org)__
+
 ## Eğitim Programına Kayıt
 + [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us06web.zoom.us/meeting/register/LFehHDINS9uncT7jU2PCsg#/registration)
  Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+
