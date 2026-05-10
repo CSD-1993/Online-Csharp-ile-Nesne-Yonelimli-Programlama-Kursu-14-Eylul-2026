@@ -2,7 +2,7 @@
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir. 
 
-+ Kurs 11 Mayıs 2026 tarihinde başlayacaktır.
++ Kurs 20 Temmuz 2026 tarihinde başlayacaktır.
 
 + Dersler Pazartesi, Çarşamba, Cuma günleri, 19:30-22:30 saatleri arasında (3'er saat) gerçekleştirilecektir.
 
